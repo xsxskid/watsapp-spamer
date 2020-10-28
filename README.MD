@@ -18,7 +18,7 @@
 
 [ ] install pip
 
-[ ] pip install requirements.txt
+[ ] pip install -r requirements.txt
 
 [ ] now move webdriver firefox[geckodriver.exe] to system PHAT like:[C:\WINDOWS]
 
